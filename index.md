@@ -75,7 +75,7 @@
             <p class="text-faded mb-4">in-depth cannabis strain recommendations</p>
             <p class="text-faded mb-4">- effect, aroma, rating -</p>
             <br>
-            <p class="text-faded mb-4"><a href="">[[click here for a cannabis strain recommendation]]</a></p>
+            <p class="text-faded mb-4"><a href="conjointanalysis.html">[[click here for a cannabis strain recommendation]]</a></p>
           </div>
         </div>
       </div>
