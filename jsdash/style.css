@@ -1,0 +1,36 @@
+body {
+    color: black;
+    font-family: 'Georgia';
+    text-align: center;
+}
+
+.jumbotron {
+  background-color: #44857D;
+}
+
+
+.panel-heading {
+  background-color: #44857D !important;
+}
+h2 {
+  color: #FB9334;
+}
+h1, p {
+  color: black;
+}
+select {
+  width: 50%;
+}
+
+.well {
+  text-align: center;
+  background-color: #FB9334;
+}
+
+
+/* #167070 Dark Teal */
+/* #44857D Light Teal */
+/* #FE6625 Orange */
+/* #FB9334 Light Orange */
+/* #414A4F Charcoal */
+/* #003D59 Navy */
